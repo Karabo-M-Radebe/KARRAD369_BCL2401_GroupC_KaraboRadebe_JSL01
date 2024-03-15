@@ -23,4 +23,4 @@ One of the main challenges I faced was following the syntax that's associated wi
 An area of improvement that I would like to focus on, especially on future projects (which will require more), is finding better ways to write more elegant lines of code that reduce clutter and unnecessary lines of code.
 
 ## Overall learning experience
-My overall experience was quite overwhelming as I was only beginning to understand the little intricacies of writing JavaScript code and all the vast ways to do it. The experience was not on the posistive side, even though I was able to figure out how to do complete the brief. 
+My overall experience was quite overwhelming as I was only beginning to understand the little intricacies of writing JavaScript code and all the vast ways to do it. The experience was not on the posistive side, even though I was able to figure out how to do complete the brief. I'd give the overall project a personal rating of 6/10
